@@ -54,7 +54,3 @@ In this notebook, I have implemented the ResNet18 architecture from scratch, tra
 ## Acknowledgments
 - This project uses PyTorch and torchvision.
 - The dataset used in this project is CIFAR-10.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
